@@ -1,2 +1,3 @@
 # hello-world
-study GitHub
+study GitHub<br>
+My name is Ken Kimura
